@@ -15,6 +15,7 @@ public class SpringbobtLianxiMybatisplusApplication {
         System.out.println("hello hot-fix");
         System.out.println("master test");
         System.out.println("push test");
+        //pull
     }
 
 }
