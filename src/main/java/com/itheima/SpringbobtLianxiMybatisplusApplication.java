@@ -8,6 +8,9 @@ public class SpringbobtLianxiMybatisplusApplication {
 
     public static void main(String[] args) {
         SpringApplication.run(SpringbobtLianxiMybatisplusApplication.class, args);
+
+        System.out.println("git");
+        System.out.println("gfdsag sgfdsg");
     }
 
 }
