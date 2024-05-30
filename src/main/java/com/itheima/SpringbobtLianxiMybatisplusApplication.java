@@ -12,6 +12,7 @@ public class SpringbobtLianxiMybatisplusApplication {
         System.out.println("git");
         System.out.println("gfdsag sgfdsg");
         System.out.println("git3");
+        System.out.println("hello hot-fix");
     }
 
 }
